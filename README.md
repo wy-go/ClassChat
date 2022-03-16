@@ -3,6 +3,16 @@ University class internal affairs management system based on intranet
 
 :smile: course project for JAVA SPRING 2019 of the School of Software, SDU
 
+## Function
+- login & registration
+- group chat & private chat
+- sending emoticons, pictures and files
+- instant hand-drawing
+- file sharing
+- announcements ()
+- voting
+- viewing class logs
+
 ## System Architecture Design: MVP
 - Client:
   1. view
