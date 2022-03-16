@@ -31,6 +31,6 @@ University class internal affairs management system based on intranet
 <img width="520" alt="Screen Shot 2022-03-16 at 7 21 02 PM" src="https://user-images.githubusercontent.com/56920038/158578982-0f3bc113-7092-440a-89af-28a3e850bc47.png">
 
 ## Software Environment
-MacOS Mojave 10.14.4
-Eclipse + JDK
-MySQL Workbench 8.0 CE
+- MacOS Mojave 10.14.4
+- Eclipse + JDK
+- MySQL Workbench 8.0 CE
